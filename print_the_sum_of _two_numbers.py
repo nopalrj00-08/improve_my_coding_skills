@@ -1,3 +1,5 @@
-#  input two numbers
-print(f"The sum of two number is ",float(input("Enter first number:")) + float(input("Enter second number:")))
-#  print the sum of two numbers
+#  input two numbers  and print the sum of two numbers
+print(f"The sum of two number is ",
+float(input("Enter first number:")) +
+float(input("Enter second number:")))
+
